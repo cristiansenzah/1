@@ -1,4 +1,4 @@
-- 👋 Hi, I’m cristian
+- 👋 Hi, I’m Cristian, I'm 15 years old
 - 👀 I’m interested in Website Programming and Software Programming
 - 🌱 I’m currently learning **Javascript**, **HTML**, **CSS** / *(Discord.js v13+)*
-- You can find me on Discord, **TAG** (cristiansenzah#2510)
+- You can find me on Discord, **TAG:** cristiansenzah#2510
