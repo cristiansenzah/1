@@ -1,0 +1,4 @@
+- 👋 Hi, I’m cristian
+- 👀 I’m interested in Website Programming and Software Programming
+- 🌱 I’m currently learning **Javascript**, **HTML**, **CSS** / *(Discord.js v13+)*
+- You can find me on Discord, **TAG** (cristiansenzah#2510)

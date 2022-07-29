@@ -1,4 +1,0 @@
-- 👋 Hi, I’m cristian
-- 👀 I’m interested in I.C.T. and programming
-- 🌱 I’m currently learning **Javascript** (Discord.js)
-- You can find me on Discord, **TAG** (cristiansenzah#2510)
